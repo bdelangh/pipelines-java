@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/badelang/java_pipeline/_apis/build/status/bdelangh.pipelines-java?branchName=master)](https://dev.azure.com/badelang/java_pipeline/_build/latest?definitionId=5&branchName=master)
 
 # Contributing
 
